@@ -4,4 +4,5 @@ class BaseRepo {
     final baseurl = Uri.parse("http://49.50.107.91/hmel");
 
   final baseHeader = {'Content-Type': 'application/json'};
+  var url="";
 }
